@@ -1,0 +1,15 @@
+---
+title: "RESEARCH NETWORK"
+author: "Jieun Park"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+# Clearing Current Environment
+
+```{r setup, include=FALSE}
+rm=(ls=list())
+```
+
+
+# 
